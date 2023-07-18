@@ -22,3 +22,12 @@ das informações deve ser escrita em uma linha diferente.
 - [x] Validação de entradas. Não aceita input nulo ou vazio;
 - [x] Conversão de tipos;
 - [x] Tratamento utilizando o TryParse;
+
+#### Exercício 4
+Escreva um programa que faça a leitura da nota de um aluno, que pode variar de 0 a 10, com 
+até duas casas decimais. Em seguida, o programa deve exibir o “Conceito” de aproveitamento 
+do aluno na disciplina.
+- [x] Validação de entradas. Não aceita input nulo ou vazio;
+- [X] Não aceita números negativos
+- [x] Conversão de tipos;
+- [x] Tratamento utilizando o TryParse;
