@@ -13,3 +13,12 @@ exemplo abaixo. Não se esqueça de adicionar tratamento de erros ao seu código
 - [x] Validação de entradas;
 - [x] Conversão de tipos;
 - [x] Tratamento utilizando o TryParse;
+
+#### Exercício 3
+Escreva um programa que faça a leitura de 5 valores Inteiros. Em seguida, o programa deve 
+exibir no console a informação de quantos dos valores digitados são pares, quantos dos valores 
+digitados são ímpares, quantos deles são positivos e, por fim, quantos são negativos. Cada uma 
+das informações deve ser escrita em uma linha diferente.
+- [x] Validação de entradas. Não aceita input nulo ou vazio;
+- [x] Conversão de tipos;
+- [x] Tratamento utilizando o TryParse;
