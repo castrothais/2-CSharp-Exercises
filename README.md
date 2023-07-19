@@ -14,6 +14,15 @@ exemplo abaixo. Não se esqueça de adicionar tratamento de erros ao seu código
 - [x] Conversão de tipos;
 - [x] Tratamento utilizando o TryParse;
 
+#### Exercício 2
+Escreva um programa que faça a leitura de 4 valores inteiros A, B, C e D. A seguir, se B for maior 
+do que C e se D for maior do que A, e a soma de C com D for maior que a soma de A e B e se C 
+e D, ambos, forem positivos e se a variável A for par, o programa deve escrever na saída padrão 
+(“Console”) a mensagem "Valores Aceitos". Caso contrário, deve escrever "Valores Não Aceitos".
+- [x] Validação de entradas. Não aceita input nulo ou vazio;
+- [x] Conversão de tipos;
+- [x] Tratamento utilizando o TryParse;
+
 #### Exercício 3
 Escreva um programa que faça a leitura de 5 valores Inteiros. Em seguida, o programa deve 
 exibir no console a informação de quantos dos valores digitados são pares, quantos dos valores 
